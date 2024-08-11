@@ -7,3 +7,6 @@
 [submodule "orders-microservice"]
 	path = orders-microservice
 	url = https://github.com/Nest-Microservice-Course-2024/orders-microservice.git
+[submodule "payments-microservice"]
+	path = payments-microservice
+	url = https://github.com/Nest-Microservice-Course-2024/payments-microservice.git
